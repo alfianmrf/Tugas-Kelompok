@@ -1,0 +1,42 @@
+C:\Users\ASUS\source\repos\Dashboard App N\Dashboard App N\obj\Debug\Dashboard App N.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Dashboard App N\Dashboard App N\obj\Debug\Dashboard_App_N.Form1.resources
+C:\Users\ASUS\source\repos\Dashboard App N\Dashboard App N\obj\Debug\Dashboard_App_N.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Dashboard App N\Dashboard App N\obj\Debug\Dashboard App N.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Dashboard App N\Dashboard App N\obj\Debug\Dashboard App N.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Dashboard App N\Dashboard App N\bin\Debug\Dashboard App N.exe.config
+C:\Users\ASUS\source\repos\Dashboard App N\Dashboard App N\bin\Debug\Dashboard App N.exe
+C:\Users\ASUS\source\repos\Dashboard App N\Dashboard App N\bin\Debug\Dashboard App N.pdb
+C:\Users\ASUS\source\repos\Dashboard App N\Dashboard App N\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ASUS\source\repos\Dashboard App N\Dashboard App N\obj\Debug\Dashboard App N.csproj.CopyComplete
+C:\Users\ASUS\source\repos\Dashboard App N\Dashboard App N\obj\Debug\Dashboard App N.exe
+C:\Users\ASUS\source\repos\Dashboard App N\Dashboard App N\obj\Debug\Dashboard App N.pdb
+C:\Users\ASUS\source\repos\Dashboard App N\Dashboard App N\obj\Debug\Dashboard_App_N.FormProduct.resources
+C:\Users\ASUS\source\repos\Dashboard App N\Dashboard App N\obj\Debug\Dashboard_App_N.FormMarketing.resources
+C:\Users\ASUS\source\repos\Dashboard App N\Dashboard App N\obj\Debug\Dashboard_App_N.FormOrders.resources
+C:\Users\ASUS\source\repos\Dashboard App N\Dashboard App N\obj\Debug\Dashboard_App_N.FormCustomer.resources
+C:\Users\ASUS\source\repos\Dashboard App N\Dashboard App N\obj\Debug\Dashboard_App_N.FormSetting.resources
+D:\Kuliah\PemVis\Dashboard App N\Dashboard App N\bin\Debug\Dashboard App N.exe.config
+D:\Kuliah\PemVis\Dashboard App N\Dashboard App N\bin\Debug\Dashboard App N.exe
+D:\Kuliah\PemVis\Dashboard App N\Dashboard App N\bin\Debug\Dashboard App N.pdb
+D:\Kuliah\PemVis\Dashboard App N\Dashboard App N\bin\Debug\FontAwesome.Sharp.dll
+D:\Kuliah\PemVis\Dashboard App N\Dashboard App N\obj\Debug\Dashboard App N.csprojAssemblyReference.cache
+D:\Kuliah\PemVis\Dashboard App N\Dashboard App N\obj\Debug\Dashboard_App_N.Form1.resources
+D:\Kuliah\PemVis\Dashboard App N\Dashboard App N\obj\Debug\Dashboard_App_N.FormCustomer.resources
+D:\Kuliah\PemVis\Dashboard App N\Dashboard App N\obj\Debug\Dashboard_App_N.FormMarketing.resources
+D:\Kuliah\PemVis\Dashboard App N\Dashboard App N\obj\Debug\Dashboard_App_N.FormOrders.resources
+D:\Kuliah\PemVis\Dashboard App N\Dashboard App N\obj\Debug\Dashboard_App_N.FormProduct.resources
+D:\Kuliah\PemVis\Dashboard App N\Dashboard App N\obj\Debug\Dashboard_App_N.Properties.Resources.resources
+D:\Kuliah\PemVis\Dashboard App N\Dashboard App N\obj\Debug\Dashboard App N.csproj.GenerateResource.cache
+D:\Kuliah\PemVis\Dashboard App N\Dashboard App N\obj\Debug\Dashboard App N.csproj.CoreCompileInputs.cache
+D:\Kuliah\PemVis\Dashboard App N\Dashboard App N\obj\Debug\Dashboard App N.csproj.CopyComplete
+D:\Kuliah\PemVis\Dashboard App N\Dashboard App N\obj\Debug\Dashboard App N.exe
+D:\Kuliah\PemVis\Dashboard App N\Dashboard App N\obj\Debug\Dashboard App N.pdb
+D:\Kuliah\PemVis\Dashboard App N\Dashboard App N\bin\Debug\LiveCharts.dll
+D:\Kuliah\PemVis\Dashboard App N\Dashboard App N\bin\Debug\LiveCharts.WinForms.dll
+D:\Kuliah\PemVis\Dashboard App N\Dashboard App N\bin\Debug\LiveCharts.Wpf.dll
+D:\Kuliah\PemVis\Dashboard App N\Dashboard App N\bin\Debug\LiveCharts.pdb
+D:\Kuliah\PemVis\Dashboard App N\Dashboard App N\bin\Debug\LiveCharts.xml
+D:\Kuliah\PemVis\Dashboard App N\Dashboard App N\bin\Debug\LiveCharts.WinForms.pdb
+D:\Kuliah\PemVis\Dashboard App N\Dashboard App N\bin\Debug\LiveCharts.WinForms.xml
+D:\Kuliah\PemVis\Dashboard App N\Dashboard App N\bin\Debug\LiveCharts.Wpf.pdb
+D:\Kuliah\PemVis\Dashboard App N\Dashboard App N\bin\Debug\LiveCharts.Wpf.xml
